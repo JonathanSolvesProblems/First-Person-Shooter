@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Jon_A\Desktop\Programming\First-Person-Shooter\FirstPersonMaze\FirstPersonMaze\main.cpp(22,103): error C2664:  'BOOL WriteConsoleOutputCharacterA(HANDLE,LPCSTR,DWORD,COORD,LPDWORD)': cannot convert argument 2 from 'wchar_t *' to 'LPCSTR'
+C:\Users\Jon_A\Desktop\Programming\First-Person-Shooter\FirstPersonMaze\FirstPersonMaze\main.cpp(22,40): message :  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
